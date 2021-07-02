@@ -1,0 +1,7 @@
+Cantidad de puntos ruta costo minimo: 3
+
+Puntos ruta costo minimo: 
+
+(0, 0, 0)
+(10, 0, 0)
+(10, 10, 0)
